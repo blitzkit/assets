@@ -1,4 +1,4 @@
 
-Oth72_Hazard_Ioth72-hazard-i-short-name!
-
-enOth72_Hazard_I_SHORT_NAME
+Oth72_Hazard_Ihazard-i
+
+enHazard I

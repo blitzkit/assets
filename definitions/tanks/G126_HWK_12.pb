@@ -1,4 +1,4 @@
 
-G126_HWK_12g126-hwk-12-short-name
-
-enG126_HWK_12_SHORT_NAME
+G126_HWK_12!tankentity-g126-hwk-12-short-name+
+)
+en#TankEntity__g126_hwk_12__Short_Name

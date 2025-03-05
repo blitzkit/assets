@@ -1,4 +1,4 @@
 
-G166_LKpz_70_Kg166-lkpz-70-k-short-name!
-
-enG166_LKpz_70_K_SHORT_NAME
+G166_LKpz_70_K	lkpz-70-k
+
+en	LKpz.70 K

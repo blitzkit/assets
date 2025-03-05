@@ -1,4 +1,4 @@
 
-F140_Sentinellef140-sentinelle-short-name"
- 
-enF140_Sentinelle_SHORT_NAME
+F140_Sentinelle%tankentity-f140-sentinelle-short-name/
+-
+en'TankEntity__f140_sentinelle__Short_Name

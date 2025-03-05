@@ -1,4 +1,4 @@
 
-G162_Project_Kpz_07P_E!g162-project-kpz-07p-e-short-name)
-'
-en!G162_Project_Kpz_07P_E_SHORT_NAME
+G162_Project_Kpz_07P_Eprojekt-kpz-07p-e
+
+enProjekt Kpz. 07P(E)

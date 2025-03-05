@@ -1,4 +1,4 @@
 
-Oth76_Destinyoth76-destiny-short-name 
-
-enOth76_Destiny_SHORT_NAME
+Oth76_Destiny#tankentity-oth76-destiny-short-name-
++
+en%TankEntity__oth76_destiny__Short_Name

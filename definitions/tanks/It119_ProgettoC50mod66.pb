@@ -1,4 +1,4 @@
 
-It119_ProgettoC50mod66!it119-progettoc50mod66-short-name)
-'
-en!It119_ProgettoC50mod66_SHORT_NAME
+It119_ProgettoC50mod66progetto-c50-mod-66
+
+enProgetto C50 mod. 66

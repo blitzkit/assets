@@ -1,4 +1,4 @@
 
-Oth51_FD_24oth51-fd-24-short-name
-
-enOth51_FD_24_SHORT_NAME
+Oth51_FD_24tsl-7-defender
+
+enTSL-7 Defender

@@ -1,4 +1,4 @@
 
-Oth77_Prowleroth77-prowler-short-name 
-
-enOth77_Prowler_SHORT_NAME
+Oth77_Prowlerprowler
+
+enProwler

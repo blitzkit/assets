@@ -1,4 +1,6 @@
 
-Oth70_Lightbringeroth70-lightbringer-short-name%
-#
-enOth70_Lightbringer_SHORT_NAME
+Oth70_Lightbringerlightbringer0
+
+enLightbringer
+
+ruСветоносец

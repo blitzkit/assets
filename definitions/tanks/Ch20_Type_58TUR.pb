@@ -1,4 +1,4 @@
 
-Ch20_Type_58TURch20-type-58tur-short-name"
- 
-enCh20_Type_58TUR_SHORT_NAME
+Ch20_Type_58TUR%tankentity-ch20-type-58tur-short-name/
+-
+en'TankEntity__ch20_type_58tur__Short_Name

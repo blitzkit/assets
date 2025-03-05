@@ -1,4 +1,4 @@
 
-Oth71_Titan_Strifeoth71-titan-strife-short-name%
-#
-enOth71_Titan_Strife_SHORT_NAME
+Oth71_Titan_Strifetitan-strife
+
+enTitan Strife

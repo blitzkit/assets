@@ -1,4 +1,4 @@
 
-Ch60_Type59_spcch60-type59-spc-short-name"
- 
-enCh60_Type59_spc_SHORT_NAME
+Ch60_Type59_spctype-59-spc
+
+enType 59 spc
