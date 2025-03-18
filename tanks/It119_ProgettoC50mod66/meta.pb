@@ -1,4 +1,4 @@
 
-It119_ProgettoC50mod66progetto-c50-mod-66
-
-enProgetto C50 mod. 66
+It119_ProgettoC50mod66,tankentity-it119-progettoc50mod66-short-name6
+4
+en.TankEntity__it119_progettoc50mod66__Short_Name

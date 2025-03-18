@@ -1,4 +1,4 @@
 
-	Oth50_STT	endurance
-
-en	Endurance
+	Oth50_STTtankentity-oth50-stt-short-name)
+'
+en!TankEntity__oth50_stt__Short_Name
