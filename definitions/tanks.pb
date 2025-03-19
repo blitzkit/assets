@@ -1,176 +1,113 @@
 
-Ch22_113
-Ch41_WZ_111_5A
-Ch02_Type62
-Ch47_BZ_176
-Ch56_BZ_74_1
-Ch59_BZ58_2
-Ch45_WZ_114
-Ch19_121
-Ch03_WZ_111
-Ch26_59_Patton
-Ch20_Type_58TUR
-Ch60_Type59_spc
-Ch01_Type59
-Ch43_WZ_122_2
-Ch07_Vickers_MkE_Type_BT26
-
-Ch48_BZ_75
-Ch52_WZ_122_6_F3
-Ch50_BZ_166
-Ch15_59_16_BP
-Ch29_Type_62C_prot
-Ch38_WZ113G_FT
-Ch17_WZ131_1_WZ132
-Ch35_T_34_2G_FT
-Ch28_WZ_132A
-Ch08_Type97_Chi_Ha
-Ch09_M5
-Ch25_121_mod_1971B
-Ch36_WZ111_1G_FT
-Ch39_WZ120_1G_FT
-
-Ch04_T34_1
-
-Ch49_BZ_68
-Ch10_IS2
-Ch42_WalkerBulldog_M41D
-
-Ch51_BZ_58
-Ch21_T34
-Ch11_110
-Ch44_114_SP2
-Ch16_WZ_131
-Ch13_LT_vz38
-
-Ch15_59_16
-Ch20_Type58
-Ch24_Type64
-Ch20_Type_58BP
-Ch34_WZ131G_FT_BP
-
-Ch05_T34_2
-
-Ch14_T34_3
-Ch20_Type_58TU
-Ch37_WZ111G_FT
-Ch34_WZ131G_FT
-Ch23_112
-Ch12_111_1_2_3
-Ch23_WZ_112v2
-Ch18_WZ_120
-Cz04_T50_51
-It115_Rinoceronte
-It08_Progetto_M40_mod_65
-Cz18_TNH_105_1000
-It116_Carro_d_assalto_P88
-S07_Strv_74BP
-
-Pl23_CS_53
-Cz20_ShPTK_TVP_100
 It117_ProgettoCC55mod54
-Pl13_53TP_Markowskiego
-	Pl18_BUGI
+It119_ProgettoC50mod66
+It30_CC_mod_64_Prem
+Cz04_T50_51
+Cz18_TNH_105_1000
 	Pl06_10TP
 	Pl07_14TP
-	It23_CC_3
+It115_Rinoceronte
 	It21_Lion
+	Pl18_BUGI
+It116_Carro_d_assalto_P88
+S07_Strv_74BP
+Pl15_60TP_Lewandowskiego
 
 Pl21_CS_63
-It25_CC_mod_64
+Cz20_ShPTK_TVP_100
 
 Cz17_Vz_55
+It08_Progetto_M40_mod_65
 S18_EMIL_1951_E1
 S25_EMIL_51
 S32_Bofors_Tornvagn
-It119_ProgettoC50mod66
-It30_CC_mod_64_Prem
 S23_Strv_81
 
 S31_Strv_K
-Pl15_60TP_Lewandowskiego
-It14_P44_Pantera
-Cz16_TNH_T_vz51
-Pl05_50TP_Tyszkiewicza
-Pl08_50TP_Prototyp
-It20_Carro_Combattimento_45t
-Pl10_40TP_Habicha
-Pl11_45TP_Habicha
-Pl19_CS_52_LIS
+	It23_CC_3
 
-Pl20_CS_44
+Pl23_CS_53
+It25_CC_mod_64
+It14_P44_Pantera
+Pl13_53TP_Markowskiego
+
+S13_Leo_NY
+Cz16_TNH_T_vz51
 It09_P43_ter
 Cz08_T_25BP
 Cz08_T_25BPS
 Cz29_Skoda_P-JS_BP
 It10_P43_bis_BP
-It24_Controcarro_1_Mk2
 Cz05_T34_100
 
 It26_CC_56
+Pl05_50TP_Tyszkiewicza
+Pl08_50TP_Prototyp
+It20_Carro_Combattimento_45t
+F01_Vickers_MkF
+Pl11_45TP_Habicha
+Pl19_CS_52_LIS
+
+Pl20_CS_44
 It28_Semovente_M41_Da_75_18
 Pl17_DS_PZlnz
 S02_Strv_M42
 
 S04_Lago_I
 S13_Leo
-Cz07_TVP_46
-
-S13_Leo_NY
-S16_Kranvagn
-Cz15_Skoda_T_45_Prem
-Cz19_Vz_44_1
-F01_Vickers_MkF
-Cz29_Skoda_P_JS
-It10_P43_bis
 It10_P43_BD
-It13_Progetto_M35_mod_46
-
-Pl22_CS_59
-Pl03_PzV_Poland
-	Cz13_T_27
+S16_Kranvagn
 Cz02_TVP_T50
 S17_EMIL_1952_E2
+Cz15_Skoda_T_45_Prem
+Cz19_Vz_44_1
 It18_Progetto_C45_mod_71
+
+Pl22_CS_59
 Cz14_Skoda_T_56
 S26_Lancen_C
 It12_Prototipo_Standard_B
+Cz07_TVP_46
+	Cz13_T_27
+	Cz08_T_25
+It13_Progetto_M35_mod_46
+It24_Controcarro_1_Mk2
 It27_M43_da_105_25_Bassoto
 S07_Strv_74
-	Cz08_T_25
+Pl10_40TP_Habicha
+Pl03_PzV_Poland
+Cz29_Skoda_P_JS
+It10_P43_bis
+F123_ERAC_105_Proto
 F10_AMX_50B
 F18_Bat_Chatillon25t
+F32_Somua_Sau_40
+F74_AMX_M4_1949
 F114_Projet_4_1
 F115_Lorraine_50t
 F120_Project_Louis
 F140_Sentinelle
-F71_AMX_30_prototype
-F32_Somua_Sau_40
-F74_AMX_M4_1949
-F126_AMX_13_M24
-F34_ARL_V39_BP
-F08_AMX_50_100
-F17_AMX_13_90
-F89_Canon_dassaut_de_105
-F06_ARL_44BP
-F68_AMX_Chasseur_de_char_46
-F15_AMX_12tBP
 F119_Projet_Murat
 F09_AMX_50_120
 F26_Achilles_FR
-F123_ERAC_105_Proto
+F34_ARL_V39_BP
 F27_FCM_36Pak40
+F06_ARL_44BP
+F15_AMX_12tBP
+F126_AMX_13_M24
+F71_AMX_30_prototype
 
 F72_AMX_30
-F117_Alt_Proto_AMX_30
+F08_AMX_50_100
+F17_AMX_13_90
+F89_Canon_dassaut_de_105
+F68_AMX_Chasseur_de_char_46
 F16_AMX_13_75
 F69_AMX_13_57_100_GrandFinal
-F82_AMX_M4_Mle1949_Ter
-
-F33_S_35CA
-F69_AMX_13D
 F18_Bat_Chatillon25tCL
 F35_AMX_AC_Mle1946
+
+F33_S_35CA
 F04_B1
 F05_BDR_G1B
 	F14_AMX40
@@ -179,65 +116,65 @@ F33_S_35CA
 F06_ARL_44
 F11_Renault_G1R
 F65_FCM_50t
+F75_Char_de_25t
+F07_AMX_M4_1945
+F37_AMX50_Foch
 F116_Bat_Chatillon_Bourrasque
 F19_Lorraine40t
 F19_Lorraine40t_C
 F84_Somua_SM
-F64_AMX_50Fosh_155
-F07_AMX_M4_1945
-F34_ARL_V39
-F36_AMX_AC_Mle1948
-F113_Bretagne_Panther
 F73_M4A1_Revalorise
+F117_Alt_Proto_AMX_30
 F02_D1
 F03_D2
 	F13_AMX38
 F30_RenaultFT_AC
 F49_RenaultR35
 F52_RenaultUE57
-F75_Char_de_25t
-F37_AMX50_Foch
+F82_AMX_M4_Mle1949_Ter
 F15_AMX_12t
+F36_AMX_AC_Mle1948
+F113_Bretagne_Panther
+F34_ARL_V39
+F69_AMX_13D
+F64_AMX_50Fosh_155
+GB109_GSOR_1008_Fearless
+ GB110_FV4201_Chieftain_Prototype
+GB114_Vickers_MBT_Mk3
 GB48_FV215b_183
 GB83_FV4005
 GB52_A45
 GB21_Cromwell
+GB106_Cobra
+GB24_Centurion_Mk3
+GB93_Caernarvon_AX
+GB42_Valentine_AT
+GB40_Gun_Carrier_BP
 GB81_FV4004
+	GB108_A46
+GB30_Vickers_Light_105
+GB97_Chimera
+GB58_Cruiser_Mk_III
+GB35_Sentinel_AC_IV
+GB94_Centurion_Mk5_1_RAAC
+GB84_Chieftain_Mk6
+GB116_Harry_Hopkins
+GB24_Centurion_MkDF
+	GB72_AT15
+GB70_N_FV4202_105
+GB69_Cruiser_Mk_II
+GB80_Charioteer
 GB09_Churchill_VII_BP
 
 GB21_A27BP
-GB93_Caernarvon_AX
-GB106_Cobra
-GB24_Centurion_Mk3
-	GB108_A46
-GB97_Chimera
-GB58_Cruiser_Mk_III
-GB94_Centurion_Mk5_1_RAAC
-GB42_Valentine_AT
-GB116_Harry_Hopkins
 GB87_Chieftain_T95_turret
-GB69_Cruiser_Mk_II
-GB80_Charioteer
-GB40_Gun_Carrier_BP
-GB84_Chieftain_Mk6
-GB24_Centurion_MkDF
-GB109_GSOR_1008_Fearless
- GB110_FV4201_Chieftain_Prototype
-GB114_Vickers_MBT_Mk3
-	GB72_AT15
-GB70_N_FV4202_105
-GB30_Vickers_Light_105
-GB35_Sentinel_AC_IV
-
-GB22_Comet
 GB12_Conqueror
-GB111_Charlemagne
-GB23_Centurion
 GB19_Sherman_Firefly
 GB71_AT_15A
 GB75_AT7
-
-GB92_FV217
+GB101_FV1066_Senlac
+GB111_Charlemagne
+GB41_Challenger
 GB04_Valentine
 GB07_Matilda
 GB08_Churchill_I
@@ -246,19 +183,6 @@ GB92_FV217
 GB29_Vickers_Cruiser
 GB32_Tortoise
 GB109_GSOR_1008
-GB11_Caernarvon_D
-GB09_Churchill_VII
-GB25_Churchill_MkVI
-GB63_TOG_II
-GB68_Matilda_Black_Prince
-GB85_Cromwell_Berlin
-GB10_Black_Prince
-GB26_Churchill_MkVIII
-GB101_FV1066_Senlac
-GB41_Challenger
-GB60_Covenanter
-GB44_Archer_Custom
-GB40_Gun_Carrier_Churchill
 GB03_Cruiser_Mk_I
 GB05_Vickers_Medium_Mk_II
 GB06_Vickers_Medium_Mk_III
@@ -269,75 +193,81 @@ GB92_FV217
 GB112_Caliban
 
 GB28_FV301
+GB10_Black_Prince
+GB26_Churchill_MkVIII
+GB60_Covenanter
 GB63_TOG_II_BP
+
+GB22_Comet
+GB40_Gun_Carrier_Churchill
+GB11_Caernarvon
+GB99_Turtle_Mk1
 GB14_Sherman_V
 GB33_Sentinel_AC_I
 GB51_Excelsior
-GB99_Turtle_Mk1
+GB23_Centurion
+
+GB92_FV217
+GB74_AT8
+GB09_Churchill_VII
+GB25_Churchill_MkVI
+GB63_TOG_II
+GB68_Matilda_Black_Prince
+GB85_Cromwell_Berlin
+GB44_Archer_Custom
+GB11_Caernarvon_D
 GB13_FV215b
 GB91_Super_Conqueror
-GB11_Caernarvon
-GB74_AT8
+G119_Panzer58_SH
 G121_Grille_15_L63
 G141_VK7501K
 G42_Maus
+
+G26_VK1602
+G29_Krupp-38D
+G65_JagdTiger_SdKfz_185
+G126_HWK_12
+G77_PzIV_schmalturm
+G96_VK3002M
 G162_Project_Kpz_07P_E
 G165_Erich_Koncept
 G166_LKpz_70_K
-
-G26_VK1602
-G04_PzVI_Tiger_I_BP
-G40_Nashorn_BP
-G103_RU_251
-G125_Spz_57_Rh
+G98_Waffentrager_E100
+G24_VK3002DB_BP
+G66_VK2801_BP
 G28_PzIII_IV
 G70_PzIV_Hydro
-G65_JagdTiger_SdKfz_185
-G126_HWK_12
-G04_PzVI_Tiger_I
+G15_VK3601H
 G85_Auf_Panther
 G13_VK3001H
 G13_VK3001H_BP
 G17_JagdPzIV_AusfBP
 G142_M48RPz
-G51_Lowe
-G64_Panther_II
 G04_PzVI_Tiger_I_TU
 G04_PzVI_Tiger_I_TUR
 G154_Kpz_07_RH
 G48_E_25
 G143_E75_RT
-G140_HWK_30
-G15_VK3601H
-G77_PzIV_schmalturm
-G96_VK3002M
-G29_Krupp-38D
+G72_JagdPz_E100
+G103_RU_251
+G125_Spz_57_Rh
+G143_E75_TS
+	G56_E_100
 G114_Scorpian
 G67_VK4502A
 G99_RhB_Waffentrager
-G98_Waffentrager_E100
+G04_PzVI_Tiger_I
+G51_Lowe
+G64_Panther_II
 G57_PzVI_Tiger_P
 G80_Pz_IV_AusfD
-G24_VK3002DB_BP
-G66_VK2801_BP
-G72_JagdPz_E100
-G119_Panzer58_SH
-G143_E75_TS
-	G56_E_100
+G140_HWK_30
+G04_PzVI_Tiger_I_BP
+G40_Nashorn_BP
 G44_JagdTiger
 G91_Pro_Ag_A
 G118_VK4503
 G18_JagdPanther
-G144_Kpz_50t
-G73_E50_Ausf_M
-G25_PzII_Luchs
-G89_Leopard1
-
-G92_VK7201
-G106_PzKpfwPanther_AusfF
-G16_PzVIB_Tiger_II
-G03_PzV_Panther
-G78_Panther_M10
 G06_PzII
 G102_Pz_III
 G10_PzIII_AusfJ
@@ -348,60 +278,115 @@ G36_PzII_J
 G83_Pz_IV_AusfA
 G113_SP_I_C
 G147_Kunze_Panzer
-G58_VK4502P
-G97_Waffentrager_IV
-G97_Waffentrager_IV_CL
 G109_Steyr_WT
 G43_Sturer_Emil
+G25_PzII_Luchs
+G89_Leopard1
+	G08_Pz38t
+G50_T_15
+
+G92_VK7201
+G03_PzV_Panther
+G78_Panther_M10
 G05_StuG_40_AusfG
 
 G09_Hetzer
 G35_B_1bis_captured
 G84_Pz_IV_AusfG
 	G90_DW_II
+G120_M41_90
 G112_KanonenJagdPanzer_105
 G46_T_25
 G71_JagdPantherII
 G76_Pz_Sfl_IVc
-G81_Pz_IV_AusfBT
 G24_VK3002DB
-	G08_Pz38t
-G50_T_15
-	G07_Pz35t
-G20_Marder_II
-G21_PanzerJager_I
-G33_H39_captured
-G52_Pz38_NA
-
-G66_VK2801
-G115_Typ_205_4_Jun
-G138_VK168_02
 G14_KpfPz_70
 G54_E_50
 G55_E_75
-G136_Tiger_131
-G87_VK3002DB_V1
-G32_PzV_PzIV
-!G65_JagdTiger_SdKfz_185_Snowstorm
-G100_Gtraktor_Krupp
-G34_S35_captured
-G120_M41_90
 G119_Pz58_Mutz
 G148_Elephant
 G37_Ferdinand
 G88_Indien_Panzer
 G110_Typ_205
-G17_JagdPzIV
-G27_VK3001P
+G32_PzV_PzIV
 G40_Nashorn
 G41_DickerMax
+!G65_JagdTiger_SdKfz_185_Snowstorm
+G115_Typ_205_4_Jun
+G138_VK168_02
+G100_Gtraktor_Krupp
+G34_S35_captured
+G58_VK4502P
+G97_Waffentrager_IV
+G97_Waffentrager_IV_CL
+G144_Kpz_50t
+G73_E50_Ausf_M
+G17_JagdPzIV
+G27_VK3001P
+G106_PzKpfwPanther_AusfF
+G16_PzVIB_Tiger_II
+G136_Tiger_131
+G87_VK3002DB_V1
+
+G66_VK2801
+G81_Pz_IV_AusfBT
+	G07_Pz35t
+G20_Marder_II
+G21_PanzerJager_I
+G33_H39_captured
+G52_Pz38_NA
+	J03_Ha_Go
+
+J07_Chi_Ha
+J31_Type_5_Ka_Ri
+J30_Mitsu_108
+	J29_Ju_Nu
+J31_Pz_IV_AusfH
+J34_Firefly_GuP
+	J28_Ju_To
+J20_Ho_Ri_type3
+	J16_ST_B1
+
+J11_Chi_Ri
+J26_Type_68
+J33_IS-2_GuP
+	J04_Ke_Ni
+J05_Ke_Ni_B
+
+J15_Chi_Ni
+J23_Chi_To_SPG
+J29_Ju_Nu_BP
+
+J08_Chi_Nu
+
+J09_Chi_He
+J24_Type_57
+
+J27_Chi_Se
+J32_PzVI_GuP
+J14_Type_61
+
+J25_Type71
+	J21_Ho_Ri
+	J13_STA_1
+J22_Ho_Ri_type96
+G09_Hetzer_GuP
+	J06_Ke_Ho
+
+J10_Chi_To
+J12_Chi_Nu_Kai
+Oth48_EMIL_1951E1_S3
+Oth68_KV2ANN_S4
+Oth74_Argonaut
+Oth75_Braniaq_DM5
+Oth76_Destiny
+Oth29_A15HW
+Oth35_PanzerMejai
+Oth52_Toxique
 Oth08_WH_Vindicator
 Oth09_WH_Predator
 Oth28_Sturmfeur_HW
-Oth03_Van_Helsing
-Oth25_HWT20_FalconFire
-Oth42_ForestWitch_HW23
-S01_Frankentank
+Oth27_M24_AMX
 Oth46_Charioteer_S3
 Oth49_TM_04_NT
 	Oth50_STT
@@ -413,158 +398,167 @@ G66_VK2801
 Oth01_Akawara
 Oth30_T54MS
 Oth44_Charioteer_T
-Oth76_Destiny
 Oth45_Sandstriker
 Oth47_AMX_13_90_S3
 Oth51_FD_24
-Oth52_Toxique
 Oth67_FV215b_183ANN_S4
 Oth69_Souleater
 Oth71_Titan_Strife
 Oth73_Nemini
 Oth77_Prowler
-Oth27_M24_AMX
-Oth29_A15HW
-Oth35_PanzerMejai
+Oth03_Van_Helsing
+Oth25_HWT20_FalconFire
+Oth42_ForestWitch_HW23
+S01_Frankentank
 Oth62_Pz_VlD_Set
-Oth48_EMIL_1951E1_S3
-Oth68_KV2ANN_S4
-Oth74_Argonaut
-Oth75_Braniaq_DM5
-Oth41_WZ_135G_FT
-Oth02_AMX_dracula
-Oth41_Centurion_Mk3_S2
-Oth20_M4FL10
-Oth17_BDT_5A
-Oth18_BDT_5B
-Oth33_Blizzard_BP
-Oth19_BDT_5C
-Oth23_Werewolf
-Oth34_PanzerMummy
-Oth14_MdM_AshKnight
-Oth16_KV_TG
-Oth61_Pz_VM_Set
-Oth63_Pz_VllF_Set
-Oth64_Pz_VlllK_Set
-Oth65_PzVIllM_Tigeom
-Oth15_RustCrab
-Oth24_StuH_42HW
-Oth26_StrvM42HW
 Oth04_Sega_Edelweiss
 Oth05_Sega_Nameless
 Oth06_Sega_Lupus
 Oth12_Sega_Hafen
 Oth22_Sega_Vulcan
 Oth36_Indien_Panzer_S1
+Oth41_Centurion_Mk3_S2
+Oth20_M4FL10
+Oth17_BDT_5A
+Oth18_BDT_5B
+Oth33_Blizzard_BP
+Oth02_AMX_dracula
+Oth14_MdM_AshKnight
+Oth16_KV_TG
+Oth61_Pz_VM_Set
+Oth63_Pz_VllF_Set
+Oth64_Pz_VlllK_Set
+Oth65_PzVIllM_Tigeom
 Oth31_T150BP
-Oth40_TVP_46_S2
-Oth39_T20_S2
-Oth37_T26_E4_SuperPershing_S1
+Oth41_WZ_135G_FT
 Oth11_T-55A
 Oth38_50TP_Tyszkiewicza_S1
+Oth39_T20_S2
+Oth40_TVP_46_S2
+Oth37_T26_E4_SuperPershing_S1
+Oth19_BDT_5C
+Oth23_Werewolf
+Oth34_PanzerMummy
+Oth15_RustCrab
+Oth24_StuH_42HW
+Oth26_StrvM42HW
+A63_M46_Patton_CL
 	A122_TS_5
-A43_M22_Locust
-	A74_T1_E6
-
-A150_MBT_B
 A05_M4_Sherman
-A40_T95
-	A99_T92E1
-A146_TL_7_120
-
-A69_T110E5
+A14_T30
+A05_M4_105BD
 A66_M103
 A29_T40
-A14_T30
-A07_T20
-A136_T42
-	A86_T23E3
 
-A31_M36_BP
-
-A45_M6E2BP
-A34_M24_Chaffee
-A35_Pershing
-A90_T69
-A06_M4A3E8_TUR
-A13_T34_hvy
-
-A151_TS_60
-A05_M4_105BD
-A116_XM551_Exp
-A139_M_III_Y_Midas
-
-A67_T57_58
+A150_MBT_B
 A128_Concept_1b
 A34_M24_Chaffee_BP
 A45_M6E2V2_BP
 A06_M4A3E8_Sherman
 A10_M6
 A41_M18_Hellcat
+A40_T95
+	A99_T92E1
+A43_M22_Locust
+	A74_T1_E6
+
+A31_M36_BP
+
+A45_M6E2BP
+A34_M24_Chaffee
+A06_M4A3E8_TUR
+A13_T34_hvy
+
+A151_TS_60
+A90_T69
+A116_XM551_Exp
+A139_M_III_Y_Midas
+
+A67_T57_58
+
+A95_T95_E6
+
+A69_T110E5
+
+A120_M48A5
+A92_M60
 
 A116_XM551
 A144_M_VI_Y
 A100_T49
 A100_T49_Fearless
 A115_Chrysler_K
+A07_T20
+A136_T42
+	A86_T23E3
+A35_Pershing
 
 A23_M7_med
 A139_M_III_Y
-
-A95_T95_E6
-A63_M46_Patton_CL
-
-A120_M48A5
-A92_M60
-A121_M26_Cologne
-	A72_T25_2
+A146_TL_7_120
 
 A125_AEP_1
 
 A143_M_V_Y
-A132_T77
-A13_T34_hvy_Freedom
-A140_ASTRON_REX_105mm
-A68_T28_Prototype
 
 A103_T71E1
 A104_M4A3E8A
 
 A45_M6A2E1
-A68_T28D
-A80_T26_E4_SuperPershing
 A11_T29
-
-A153_XM66F
 A97_M41_Bulldog
+A68_T28D
 
 A09_T1_hvy
 A130_Super_Hellcat
 A30_M10_Wolverine
 A57_M8A1
+A06_M4A3E8_BP
+A41_M18E2BP
+
+A71_T21_BP
+A121_M26_Cologne
+	A72_T25_2
+
+A153_XM66F
 A21_T14
 A58_T67
 
 A62_Ram-II
-A36_Sherman_Jumbo
 
 A85_T110E3
 A102_T28_concept
 A157_M_VII_Y
 
 A64_T25_AT
+A141_M_IV_Y
+A39_T28
+A06_M4A3E8_TU
+A142_Pawlack_Tank
+A63_M46_Patton
+A36_Sherman_Jumbo
+	A89_T54E1
+A13_T34_hvy_Freedom
+A45_M6A2E1_exp
 
-A71_T21_BP
-A06_M4A3E8_BP
-A41_M18E2BP
+A44_M4A2E4
+A77_T6M
+A71_T21
+A111_T25_Pilot
+
+A81_T95_E2
+
+A83_T110E4
+A132_T77
+A140_ASTRON_REX_105mm
+A68_T28_Prototype
+A94_T37
+A80_T26_E4_SuperPershing
 
 A117_T26E5
 
 A124_T54E2
 A12_T32
-A06_M4A3E8_TU
-A142_Pawlack_Tank
-A63_M46_Patton
 	A02_M2_lt
 A03_M3_Stuart
 A108_T18
@@ -576,101 +570,89 @@ A24_T2_med
 A25_M2_med
 A27_T82
 A93_T7_Combat_Car
-A31_M36_Slagger
-
-A44_M4A2E4
-A77_T6M
-A111_T25_Pilot
-
-A81_T95_E2
-A45_M6A2E1_exp
-A141_M_IV_Y
-A39_T28
-
-A83_T110E4
-	A89_T54E1
-A94_T37
 A04_M3_Grant
-A71_T21
-J30_Mitsu_108
-	J29_Ju_Nu
-J26_Type_68
-J20_Ho_Ri_type3
-
-J11_Chi_Ri
-
-J07_Chi_Ha
-J31_Type_5_Ka_Ri
-J31_Pz_IV_AusfH
-J34_Firefly_GuP
-	J03_Ha_Go
-	J16_ST_B1
-	J28_Ju_To
-	J13_STA_1
-
-J25_Type71
-
-J08_Chi_Nu
-
-J09_Chi_He
-	J04_Ke_Ni
-J05_Ke_Ni_B
-
-J15_Chi_Ni
-J23_Chi_To_SPG
-J29_Ju_Nu_BP
-J12_Chi_Nu_Kai
-J33_IS-2_GuP
-J24_Type_57
-
-J27_Chi_Se
-
-J10_Chi_To
-J32_PzVI_GuP
-J22_Ho_Ri_type96
-J14_Type_61
-	J21_Ho_Ri
-G09_Hetzer_GuP
-	J06_Ke_Ho
+A31_M36_Slagger
+R187_Object_590
+R192_K_2
 R80_KV_1
-R110_Object_260
-R45_IS_7
 R63_ST_I_BD
-R71_IS_2_Berlin
-R07_T_34_85_BP
-R113_Object_730
-R07_T_34_85_TUR
-	R144_K_91
-R81_IS_8
-R180_Object_274_A
+R09_T_26
+R11_MS-1obr21
+	R13_KV_1s
+R181_Object_452K
 R01_IS
 R175_IS_2_screen
 
 R98_T44_85
-R47_ISU_152
 R132_VNII_100LT
 R87_T62A
 R95_Object_907
+	R144_K_91
+R81_IS_8
 R77_KV_2
-R09_T_26
-R11_MS-1obr21
-	R13_KV_1s
-R119_Object_777
-R139_IS_2_Sh
-R181_Object_452K
-R12_A_20
+R07_T_34_85_BP
+R88_Object268
+R07_T_34_85_TUR
 R93_Object263
-R187_Object_590
-R192_K_2
+R110_Object_260
+R45_IS_7
 R112_T54_45
 R20_T_44
-R88_Object268
+R119_Object_777
+R139_IS_2_Sh
+R71_IS_2_Berlin
+R113_Object_730
+R12_A_20
+R180_Object_274_A
 R19_IS_3
 R61_Object252_Fearless
+R47_ISU_152
 R172_Object_752
 R75_SU122_54
 R23_T_43
 	R46_KV_13
+R194_ST_62_var_2
+R131_Tank_Gavalov
+	R02_SU_85
+R04_T_34
+R06_T_28
+R53_Object_704
+R84_Tetrarch_LL
+R111_ISU130
+R107_LTB
+R117_T34_85_Rudy
+
+R18_SU_152
+R89_SU122_44
+R25_GAZ_74b
+R13_KV_1s_BP
+R120_T22SR_A22
+R97_Object_140
+R159_SU_130PM
+R133_Object_84
+R40_T_54
+R90_IS_4
+R116_ISU122C_Berlin
+R39_KV_3
+R74_SU100M1
+R134_Object_252U
+R54_KV_5
+R73_KV_4
+R07_T_34_85_TU
+R07_T_34_85_Victory
+R140_M4_Loza
+R127_T44_100_P
+R154_T_34E_1943
+R32_Matilda_II_LL
+R33_Churchill_LL
+
+R78_SU_85I
+	R101_MT25
+R149_Object_268_4
+R146_STG
+
+R58_SU_101
+R61_Object252
 R03_BT_7
 R08_BT_2
 
@@ -683,61 +665,79 @@ R105_BT_7A
 	R50_SU76I
 	R56_T_127
 R86_LTP
-	R02_SU_85
-R04_T_34
-R06_T_28
-R53_Object_704
-	R109_T54S
-R115_IS-3_D
-R158_LT_432
+R63_ST_I
+R07_T_34_85
 
 R17_SU_100
 
 R49_SU100Y
-R107_LTB
-R117_T34_85_Rudy
-
-R18_SU_152
-R89_SU122_44
-R194_ST_62_var_2
-R63_ST_I
-R131_Tank_Gavalov
-R25_GAZ_74b
-
-R38_KV_220
-R127_T44_100_P
-R120_T22SR_A22
-R97_Object_140
-R07_T_34_85_TU
-R07_T_34_85_Victory
-R140_M4_Loza
-R90_IS_4
-R116_ISU122C_Berlin
-R39_KV_3
-R74_SU100M1
-R84_Tetrarch_LL
-R111_ISU130
-R160_object_244
-R13_KV_1s_BP
-R146_STG
-
-R58_SU_101
-R61_Object252
 	R67_M3_LL
-R72_T150
-R154_T_34E_1943
-R32_Matilda_II_LL
-R33_Churchill_LL
-
-R78_SU_85I
-R159_SU_130PM
-R133_Object_84
-R40_T_54
-R134_Object_252U
-R54_KV_5
-R73_KV_4
-R149_Object_268_4
-R07_T_34_85
 R31_Valentine_LL
 R68_A_32
-	R101_MT25
+R72_T150
+R160_object_244
+
+R38_KV_220
+	R109_T54S
+R115_IS-3_D
+R158_LT_432
+Ch03_WZ_111
+Ch22_113
+Ch41_WZ_111_5A
+Ch02_Type62
+Ch47_BZ_176
+Ch56_BZ_74_1
+Ch59_BZ58_2
+Ch52_WZ_122_6_F3
+Ch15_59_16_BP
+Ch45_WZ_114
+Ch20_Type_58TUR
+Ch60_Type59_spc
+Ch29_Type_62C_prot
+Ch19_121
+Ch38_WZ113G_FT
+Ch07_Vickers_MkE_Type_BT26
+
+Ch48_BZ_75
+Ch26_59_Patton
+Ch50_BZ_166
+Ch01_Type59
+Ch17_WZ131_1_WZ132
+Ch43_WZ_122_2
+Ch28_WZ_132A
+
+Ch04_T34_1
+Ch10_IS2
+Ch42_WalkerBulldog_M41D
+
+Ch51_BZ_58
+Ch13_LT_vz38
+Ch20_Type_58BP
+Ch34_WZ131G_FT_BP
+Ch35_T_34_2G_FT
+Ch21_T34
+Ch12_111_1_2_3
+Ch44_114_SP2
+Ch16_WZ_131
+Ch23_WZ_112v2
+Ch20_Type_58TU
+Ch37_WZ111G_FT
+Ch18_WZ_120
+Ch11_110
+Ch23_112
+Ch08_Type97_Chi_Ha
+Ch09_M5
+
+Ch49_BZ_68
+Ch25_121_mod_1971B
+Ch36_WZ111_1G_FT
+Ch39_WZ120_1G_FT
+
+Ch05_T34_2
+
+Ch14_T34_3
+Ch34_WZ131G_FT
+
+Ch15_59_16
+Ch20_Type58
+Ch24_Type64
